@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://m4n4n.github.io/sitemap.xml
