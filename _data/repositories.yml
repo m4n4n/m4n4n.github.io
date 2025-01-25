@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - m4n4n
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - m4n4n/accio
+  - m4n4n/hear2play
+  - m4n4n/sofa
+  - m4n4n/vr_racing
+  - m4n4n/mvcLinkSaver
+  # - twbs/bootstrap
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
