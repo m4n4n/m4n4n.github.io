@@ -1,0 +1,5 @@
+Compile image: bundle install
+
+Run locally: bundle exec jekyll serve
+
+Push _site to gh-pages : ./deploy.sh
